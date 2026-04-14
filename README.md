@@ -1,4 +1,4 @@
-# Mobile Wallet App 💳
+# Adey Wallet App 💳
 
 A modern, animated mobile wallet application built with Flutter featuring a beautiful UI, smooth animations, and comprehensive financial management features.
 
